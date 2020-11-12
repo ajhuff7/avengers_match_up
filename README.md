@@ -1,5 +1,5 @@
 # avengers_match_up
-  ![Avengers](public/assets/Avengers.PNG)
+  ![Avengers](avengers_match_up/public/assets/Avengers.PNG)
 
 A match up, imagine selecting game with a twist. Built with React, , React Router Dom, and Axios.
 
@@ -31,24 +31,24 @@ A match up, imagine selecting game with a twist. Built with React, , React Route
 
 - Components are arranged for games playing cards, title, and wrapper.
 
-  ![components](public/assets/comp.PNG)
+  ![components](avengers_match_up/public/assets/comp.PNG)
 
 - State is set for score, high score, and an empty array to randomize cards.
 
-  ![state](public/assets/state.PNG)
+  ![state](avengers_match_up/public/assets/state.PNG)
 
 - ChooseAvenger function determines what action happens on each State change.
 
-  ![choose](public/assets/choose.PNG)
+  ![choose](avengers_match_up/public/assets/choose.PNG)
 
 - On each State change the updated page is rendered.
 
-  ![render](public/assets/render.PNG)
+  ![render](avengers_match_up/public/assets/render.PNG)
 
 
 ## Deployed Link
 
-  ![Avengers2](public/assets/Avengers2.PNG)
+  ![Avengers2](avengers_match_up/public/assets/Avengers2.PNG)
 
 * [See Live Site](https://ajhuff7.github.io/avengers_match_up/)
 
