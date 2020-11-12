@@ -16,7 +16,7 @@
   background:#6CADDC;
 }
 .card > .img-container > img {
-  width: 60%
+  width: 30%
 }
 
 .card > .content {
@@ -42,6 +42,3 @@
   cursor: pointer;
 }
 
-.card > .remove:hover {
-  color: #d50000;
-}
