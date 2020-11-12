@@ -27,7 +27,7 @@ class App extends Component {
 
 
   chooseAvenger = id => {
-    // Filter this.state.avengers for avengers with an id not equal to the id being removed
+    // Scores based on avenger selected and randomizes the deck.
       let chooseCard = this.state.chooseCard;
       let score = this.state.score;
       let highScore = this.state.highScore;
@@ -38,7 +38,7 @@ class App extends Component {
         this.randoAvenger();
       } 
       
-      else if (this.state.score === 12) {
+      else if (this.state.score === 10) {
         alert("WINNER")
         this.setState({
           score: 0,
