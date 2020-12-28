@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avengers_match_up/static/css/main.d0974eed.chunk.css",
+    "main.css": "/avengers_match_up/static/css/main.17dc700a.chunk.css",
     "main.js": "/avengers_match_up/static/js/main.6df66959.chunk.js",
     "main.js.map": "/avengers_match_up/static/js/main.6df66959.chunk.js.map",
     "runtime-main.js": "/avengers_match_up/static/js/runtime-main.4646df83.js",
@@ -8,14 +8,14 @@
     "static/js/2.dcbee6e8.chunk.js": "/avengers_match_up/static/js/2.dcbee6e8.chunk.js",
     "static/js/2.dcbee6e8.chunk.js.map": "/avengers_match_up/static/js/2.dcbee6e8.chunk.js.map",
     "index.html": "/avengers_match_up/index.html",
-    "static/css/main.d0974eed.chunk.css.map": "/avengers_match_up/static/css/main.d0974eed.chunk.css.map",
+    "static/css/main.17dc700a.chunk.css.map": "/avengers_match_up/static/css/main.17dc700a.chunk.css.map",
     "static/js/2.dcbee6e8.chunk.js.LICENSE.txt": "/avengers_match_up/static/js/2.dcbee6e8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/avengers_match_up/static/media/avengers.f3c85a8b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.4646df83.js",
     "static/js/2.dcbee6e8.chunk.js",
-    "static/css/main.d0974eed.chunk.css",
+    "static/css/main.17dc700a.chunk.css",
     "static/js/main.6df66959.chunk.js"
   ]
 }
