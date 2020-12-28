@@ -8,4 +8,10 @@
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  box-shadow: 0px 0px 8px #5389ed;
+  -moz-box-shadow: 0px 0px 8px #5389ed;
+  -webkit-box-shadow: 0px 0px 8px #5389ed;
 }
